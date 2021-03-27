@@ -1,0 +1,19 @@
+{
+  "name": "mail_design",
+  "version": "1.0.0",
+  "description": "design mail notification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sergioch27/mail_design.git"
+  },
+  "author": "Sergio Chavarri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergioch27/mail_design/issues"
+  },
+  "homepage": "https://github.com/Sergioch27/mail_design#readme"
+}
